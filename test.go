@@ -1,5 +1,11 @@
 package main
 
+import "fmt"
+
+func car() {
+	fmt.Println("apple")
+}
+
 func main() {
 
 	num := [5]int{3, 5, 7, 8, 9}
