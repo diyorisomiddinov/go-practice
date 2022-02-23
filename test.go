@@ -5,7 +5,3 @@ import "fmt"
 func car() {
 	fmt.Println("apple")
 }
-
-func main() {
-
-}
